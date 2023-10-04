@@ -107,7 +107,7 @@
    width: 35rem;
    margin-left: -13px;
   }
-  @media(max-width:600px) {
+  @media(max-width:480px) {
       .wrapper {
          background: #e8e8ea url(images/bg-pattern-mobile.svg) no-repeat 50% 5%;
          height: 500px;
@@ -143,6 +143,9 @@
          width: 25rem;
          margin-left: 7px;
       }
+       .i{
+         left: 90%;
+       } 
   }
 
   
