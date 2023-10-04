@@ -131,7 +131,7 @@
       .accordion-wrapper{
         display: flex;
         flex-direction: column;
-        margin-top: -10rem;
+        margin-top: -15rem;
         margin-left: 2.5rem;
       }
       .title-accordion{
@@ -143,6 +143,8 @@
          width: 25rem;
          margin-left: 7px;
       }
+   .i{
+    left:90%;
   }
 
   
