@@ -110,9 +110,10 @@
   @media(max-width:600px) {
       .wrapper {
          background: #e8e8ea url(images/bg-pattern-mobile.svg) no-repeat 50% 5%;
+         border-radius:35px;
          height: 500px;
          width: 340px;
-         margin-top: 20%;
+         margin-top: 10%;
          display: grid;
          grid-template-columns: 1fr;
          grid-gap: 10rem;
